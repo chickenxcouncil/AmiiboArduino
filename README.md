@@ -1,7 +1,7 @@
 # AmiiboArduino
 
 I have been keeping up to date with the amiibos that I currently own.  
-I have modified the original software, found here: https://github.com/ModusPwnin/Interactive-Amiibo-Stand, to read the unique ID that each amiibo has.  
+I have modified the original software, https://github.com/ModusPwnin/Interactive-Amiibo-Stand, to read the unique ID that each amiibo has.  
 This has allowed me to make different songs for amiibos that have the same name but from a different game.
 
 I have also posted the write/dump files I use that work with the device if the Adafruit guide is followed during build.  
