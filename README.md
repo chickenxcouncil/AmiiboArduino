@@ -9,7 +9,7 @@ I like to make my own custom amiibos that can be read from this device so these 
 
 I ended up not converting all the if/else statements into a switch statement in the code because space is an issue.  
 
-
+Any of the files uploaded here can be loaded directly onto the arduino.
 
 Original post can be found here: https://imgur.com/a/HaJBy
 
